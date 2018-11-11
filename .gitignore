@@ -2,3 +2,6 @@
 *.class
 *.jar
 *.html
+.settings/org.eclipse.jdt.core.prefs
+/target/
+*.png
